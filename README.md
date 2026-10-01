@@ -14,7 +14,7 @@ Port of the Space Station 14 instrument system to Project Zomboid (Build 42 MP).
 
 The mod ships **without** a bundled SoundFont to keep download size small and avoid licensing headaches. On first launch the mod extracts a tiny fallback and looks for any of the following (in order):
 
-1. `Zomboid/midi/soundfont.sf2` (user override — drop any `.sf2` here)
+1. `Zomboid/midi/soundfont.sf2` (user override - drop any `.sf2` here)
 2. `<mod>/media/soundfonts/soundfont.sf2` (if the user copies one in)
 3. JDK built-in `EmergencyGMSoundbank` (very quiet & lo-fi but works everywhere)
 
