@@ -20,8 +20,8 @@ The mod ships **without** a bundled SoundFont to keep download size small and av
 
 Recommended free soundfonts:
 
-- **TimGM6mb** (~5.7 MB, MIT) — http://sourceforge.net/p/mscore/code/HEAD/tree/trunk/mscore/share/sound/
-- **GeneralUser GS** (~30 MB, permissive) — http://www.schristiancollins.com/generaluser.php
+- **TimGM6mb** (~5.7 MB, MIT) - http://sourceforge.net/p/mscore/code/HEAD/tree/trunk/mscore/share/sound/
+- **GeneralUser GS** (~30 MB, permissive) - http://www.schristiancollins.com/generaluser.php
 
 Drop the file into `Zomboid/midi/soundfont.sf2` and restart the game.
 
@@ -29,7 +29,7 @@ Drop the file into `Zomboid/midi/soundfont.sf2` and restart the game.
 
 - **Project Zomboid Build 42 MP unstable** (required)
 - Base PZ guitar-family items are supported out of the box
-- **Nade's Craftable Instruments** (Workshop `3564084857`) is detected at runtime — each of its items maps to a sensible default GM program (saxophone, keytar, flute, etc.)
+- **Nade's Craftable Instruments** (Workshop `3564084857`) is detected at runtime - each of its items maps to a sensible default GM program (saxophone, keytar, flute, etc.)
 
 ## Status
 
