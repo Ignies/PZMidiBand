@@ -6,7 +6,7 @@ Port of the Space Station 14 instrument system to Project Zomboid (Build 42 MP).
 
 - Right-click any instrument item → **Play MIDI…**
 - Load a `.mid` file from `Zomboid/midi/` (folder is created automatically on first launch).
-- Real-time synthesis through the JVM's built-in **Gervill** synthesizer using a SoundFont (`.sf2`) — no native DLL, no FMOD integration required.
+- Real-time synthesis through the JVM's built-in **Gervill** synthesizer using a SoundFont (`.sf2`) - no native DLL, no FMOD integration required.
 - Start a band as the **master**; other nearby players can **join** on a specific MIDI channel so each player sounds like their own instrument.
 - Positional audio: volume falls off with distance from the master; server stops relaying events past ~36 tiles.
 
@@ -33,4 +33,4 @@ Drop the file into `Zomboid/midi/soundfont.sf2` and restart the game.
 
 ## Status
 
-v0.1 — skeleton / first playable. See `SESSION_PLAN.md` equivalent in session memory for roadmap.
+v0.1 - skeleton / first playable.
