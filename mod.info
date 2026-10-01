@@ -1,0 +1,9 @@
+name=PZ MIDI Band
+id=PZMidiBand
+description=Drop any .mid file in your Zomboid/midi folder and play it live through Project Zomboid. Form bands of up to 16 players, each claiming one MIDI channel so every instrument comes from a different musician, with distance-based volume falloff around the band leader. Real-time synthesis via Java's built-in Gervill synth + a user-swappable SoundFont. Requires ZombieBuddy.
+modversion=0.1.0
+authors=Ignies
+category=Misc
+versionMin=42.0
+versionMax=42.99
+require=ZombieBuddy
